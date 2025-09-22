@@ -1,0 +1,61 @@
+County,FIPS,Value (Dollars),Rank within US (of 3141 counties)
+United States,0,"78,538",N/A
+California,6000,"96,334",6 of 52
+Trinity County,6105,"53,498","2,457"
+Siskiyou County,6093,"55,499","2,309"
+Imperial County,6025,"56,393","2,246"
+Modoc County,6049,"56,648","2,221"
+Lake County,6033,"58,738","2,055"
+Sierra County,6091,"60,000","1,915"
+Humboldt County,6023,"61,135","1,802"
+Tehama County,6103,"61,834","1,739"
+Lassen County,6035,"64,395","1,515"
+Mendocino County,6045,"64,688","1,476"
+Plumas County,6063,"64,946","1,436"
+Merced County,6047,"65,044","1,420"
+Mariposa County,6043,"65,378","1,392"
+Del Norte County,6015,"66,780","1,299"
+Kern County,6029,"67,660","1,234"
+Butte County,6007,"68,574","1,152"
+Kings County,6031,"68,750","1,139"
+Tulare County,6107,"69,489","1,095"
+Glenn County,6021,"70,487","1,018"
+Fresno County,6019,"71,434",945
+Shasta County,6089,"71,931",900
+Tuolumne County,6109,"72,259",886
+Inyo County,6027,"72,432",870
+Yuba County,6115,"73,313",796
+Colusa County,6011,"75,149",704
+Sutter County,6101,"75,450",692
+Madera County,6039,"75,496",690
+Stanislaus County,6099,"79,661",518
+Calaveras County,6009,"79,877",511
+Amador County,6005,"81,526",458
+San Bernardino County,6071,"82,184",440
+Nevada County,6057,"84,905",361
+Mono County,6051,"86,953",313
+Los Angeles County,6037,"87,760",294
+San Joaquin County,6077,"88,531",279
+Sacramento County,6067,"88,724",273
+Yolo County,6113,"88,818",271
+Riverside County,6065,"89,672",258
+San Luis Obispo County,6079,"93,398",219
+Monterey County,6053,"94,486",202
+Santa Barbara County,6083,"95,977",184
+Solano County,6095,"99,994",150
+San Diego County,6073,"102,285",131
+Sonoma County,6097,"102,840",122
+El Dorado County,6017,"106,190",107
+Ventura County,6111,"107,327",100
+San Benito County,6069,"108,289",91
+Napa County,6055,"108,970",87
+Santa Cruz County,6087,"109,266",84
+Alpine County,6003,"110,781",73
+Orange County,6059,"113,702",64
+Placer County,6061,"114,678",57
+Contra Costa County,6013,"125,727",33
+Alameda County,6001,"126,240",31
+San Francisco County,6075,"141,446",11
+Marin County,6041,"142,785",10
+San Mateo County,6081,"156,000",3
+Santa Clara County,6085,"159,674",2
